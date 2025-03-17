@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|Game.Prefabs.BuildingPrefab, Game",
-    "name": "Mimonsi IndustrialManufacturing01_L4_5x3",
+    "name": "Mimonsi CleanIndustrialManufacturing01_L4_5x3",
     "active": true,
     "components": {
         "$id": 1,
