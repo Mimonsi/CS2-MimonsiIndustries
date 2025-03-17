@@ -13,7 +13,7 @@
                 "$type": "2|Game.Prefabs.SpawnableBuilding, Game",
                 "name": "SpawnableBuilding",
                 "active": true,
-                "m_ZoneType": $fstrref:"CID:119d2040dcb785adcd21c9a10f4f7343",
+                "m_ZoneType": $fstrref:"CID:2d8446e3a57a6cecaf2deae47541ec91",
                 "m_Level": 3
             },
             {
