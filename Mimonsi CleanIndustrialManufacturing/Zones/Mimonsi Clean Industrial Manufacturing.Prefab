@@ -44,8 +44,8 @@
                 "$type": "6|Game.Prefabs.ZonePollution, Game",
                 "name": "ZonePollution",
                 "active": true,
-                "m_GroundPollution": 15,
-                "m_AirPollution": 15,
+                "m_GroundPollution": 0,
+                "m_AirPollution": 0,
                 "m_NoisePollution": 15
             },
             {
@@ -77,23 +77,14 @@
                 "m_AllowedManufactured": {
                     "$id": 10,
                     "$type": 9,
-                    "$rlength": 18,
+                    "$rlength": 9,
                     "$rcontent": [
                         3,
                         4,
                         8,
                         9,
                         10,
-                        11,
-                        17,
-                        19,
-                        20,
                         21,
-                        27,
-                        28,
-                        29,
-                        30,
-                        31,
                         32,
                         33,
                         34
