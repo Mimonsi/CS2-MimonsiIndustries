@@ -101,7 +101,8 @@
                     "$rcontent": [
                     ]
                 },
-                "m_FireHazardModifier": 2
+                "m_FireHazardMultiplier": 1,
+                "m_IgnoreLandValue": false
             },
             {
                 "$id": 14,
