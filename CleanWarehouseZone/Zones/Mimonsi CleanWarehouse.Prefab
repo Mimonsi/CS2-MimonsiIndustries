@@ -1,7 +1,7 @@
 {
     "$id": 0,
     "$type": "0|Game.Prefabs.ZonePrefab, Game",
-    "name": "Mimonsi CleanWarehouse",
+    "name": "Mimonsi Clean Warehouse",
     "active": true,
     "components": {
         "$id": 1,
